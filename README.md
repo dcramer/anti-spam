@@ -4,5 +4,6 @@ See this post for more details:
 
 https://cra.mr/exercise-your-rights
 
+- [CCPA](https://github.com/dcramer/anti-spam/blob/main/CCPA)
 
 
